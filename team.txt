@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 do or die
+=======
+Team members: ss-lab-pu and anikettoshn
+Favorite Programming Language: TBD 
+Team motto: if you're the smartest in the room you're in the wrong room
+
+>>>>>>> upstream/main
